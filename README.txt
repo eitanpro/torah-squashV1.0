@@ -11,4 +11,4 @@ Software
 
 Operation
 1. Move the project folder into the local web server directory (~/xamp/htdocs/ for XAMPP, or ~/wamp/www/ for WAMP)
-2. Write 'localhost/' + project directory name on the browser and click enter
+2. Write 'localhost/' + project directory name on the browser and press enter
